@@ -1,0 +1,8 @@
+1 - git clone url
+2 - git add .
+3 - git commit -m "text"
+4 - git push origin namebranch
+5 - git checkout -b feature/text
+6 - git status
+7 - git pull origin namebranch
+8 - git fetch
